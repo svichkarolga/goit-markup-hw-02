@@ -57,7 +57,7 @@ button {
 }
 
 .address-link:active,
-.nav-link:focus,
+.address-link:focus,
 .address-link:hover {
     color:#404BBF;
 }
@@ -80,7 +80,7 @@ button {
     background-color: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,5;
+    line-height: 1.5;
     letter-spacing: 0.04em;
 }
 
@@ -128,12 +128,15 @@ button {
     color: #2e2f42;
 }
 
+.team-list-item {
+    background-color: #ffffff;
+}
+
 .team-list-text {
     font-weight: 400;
     font-size: 16px;
     letter-spacing: 0.02em;
     text-align: center;
-    background-color: #FFFFFF;
 }
 
 /* ====== OUR PORTFOLIO STYLES ====== */
